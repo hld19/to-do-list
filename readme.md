@@ -4,6 +4,6 @@
 GUI 
 main
 
-## Gabriella
+## Gabriela
 database 
 todo
